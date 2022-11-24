@@ -152,7 +152,7 @@ body {
   position: relative;
   left: 600px;
   top: -160px;
-  background-image: url(/images/greyback.png);
+  background-image: url(images/greyback.png);
   color: white;
   padding: 20px 40px;
   margin-bottom: 30px;
@@ -163,7 +163,7 @@ body {
   position: relative;
   left: 900px;
   top: -160px;
-  background-image: url(/images/greyback.png);
+  background-image: url(images/greyback.png);
   color: white;
   padding: 20px 40px;
   margin-bottom: 30px;
@@ -174,7 +174,7 @@ body {
   position: relative;
   left: 900px;
   top: -160px;
-  background-image: url(/images/greyback.png);
+  background-image: url(images/greyback.png);
   color: white;
   padding: 20px 40px;
   margin-bottom: 30px;
@@ -241,7 +241,7 @@ body {
 
 .section7 {
   display: flex;
-  background-image: url(/images/whiteback.png);
+  background-image: url(images/whiteback.png);
   background-color: #814ebf;
   padding: 40px 20px;
   align-items: center;
